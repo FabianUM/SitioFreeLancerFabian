@@ -156,7 +156,7 @@ h1, h2, h3{
     background-size: cover;
     height: 450px;
     position: relative;
-    margin-bottom: 2rem;/*separacion hacia abajo*/
+    margin-bottom: 5rem;/*separacion hacia abajo*/
 }
 
 .contenido-hero{
